@@ -9,7 +9,7 @@
 <body class="bg-light">
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container">
-            <a class="navbar-brand" href="#">Sandbox</a>
+            <a class="navbar-brand" href="#">Sandbox #2</a>
         </div>
     </nav>
 
